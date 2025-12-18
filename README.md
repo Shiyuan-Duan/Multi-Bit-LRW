@@ -1,2 +1,1 @@
-# MultiBitTreeRing
 # Multi-Bit-LRW
